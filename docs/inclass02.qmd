@@ -21,9 +21,9 @@ My name is Matt Williamson and I am from Pineville, Louisana. I work on geograph
 
 ## Write some code
 
-Insert a code chunk and have R calculate the sum of the month, day, and year you were born.
-
-Save the document and commit your change.
+```{r sumbirth}
+8 + 29 + 1980
+```
 
 ## Render the document
 
