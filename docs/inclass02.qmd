@@ -3,7 +3,7 @@ title: "assignmentXX"
 format: html
 author: 
   name: Matt Williamson
-  affiliation
+  affiliation:
     name: Boise State University
 ---
 
